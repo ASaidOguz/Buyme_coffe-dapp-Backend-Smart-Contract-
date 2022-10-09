@@ -5,7 +5,7 @@ pragma solidity ^0.8.17;
 // import "hardhat/console.sol";
 
 //abi  Application Binary Interface --------- very Important 
-//Deployed to Goerli at this address:0x3311B6E0CeFEa5f788354912Ee697Cc59d2f1F26
+//Deployed to Goerli at this address:"0x1eE1bb2a264e7E168c4a0818ca81deC8fCB1fc5D"
 contract BuyMeACoffee {
     //Event to emit when new memo created! 
     event NewMemo(
